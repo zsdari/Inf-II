@@ -1,0 +1,14 @@
+snake case: [a-z]_[a-z]
+    modul
+    függvény
+    method
+    pl.: prime_test
+
+camel case: [A-Z][a-z][A-Z[a-z]
+    class
+    pl.: PrimeTest
+
+Upper case: (C-ben)
+    full nagy
+
+PEP 8 szerint kell kódolni! szabvány (amúgy csak egy ajánlás)
