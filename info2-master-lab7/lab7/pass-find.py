@@ -1,4 +1,5 @@
 import argparse
+
 from password_check import PasswordInWordsDirFilter
 
 if __name__ == "__main__":
@@ -10,7 +11,13 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    # Example usage of the provided class with the directory argument
     checker = PasswordInWordsDirFilter(args.directory)
-    # Add further logic here as needed, for example:
-    # checker.check_password("some_password")
+    print("Pass:", end="")
+    password = getpass.getuser("Pass:")
+    errors = checker.validate(password)
+    if len(errors) > 0:
+        print("Password not safe")
+        for error in errors:
+            print(error)
+    else:
+        print("Password safe")
