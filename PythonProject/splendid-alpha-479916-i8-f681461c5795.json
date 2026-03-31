@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "splendid-alpha-479916-i8",
+  "private_key_id": "f681461c5795ee88fd90ba057454f91f78c0d5f7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDYhezhh/P5zeNo\n1mnDef34z4YpzmZzFPFHWeRaezJEHXyb1bhquPsByHmiaX5mR5k3vPrToHvhZQbY\nXdhpmYvPa/EO4eCiaf2HuFkO/xbAYbItJtPvoYyI0z2mKLGg2kZ+ci+FGCiffl2u\n0n37854H2JNT7iTqjhTgqaNJPPPfWh9U4hQL77hO73r0njVb8Bz2s6fqEXnw/VvS\nu43CMnhnbO3uXrJ83yJeRmTJCRJOFiN3oqhsl6qRbysrKnFNqoO53MSB62qO3XwB\nzStoeoOfTzVo/ya0K24I+6SWSg19va4NmeAM9kt38+PXHwjBziBS1LRv+tbiBKZP\nbj+ZAY4xAgMBAAECggEAChA/cEQHXObq2OaOR92VpkjO7YaAUHz6sdxFtsbfETdl\noUCPr7YlRHHy5U+N5mcRgfuwlMFywIkXhlrmQhI2408bBxwMer/+Xp581SuZ/RsN\nUvfpBcw2Ye2fgeeGSfmbKSlZeBAlYzRWWlfCL0GlaKvyPQZmhNhRtBduVWsV0p2h\nxl1fcFPqCOc1/QyWOjnoY+0rZ6LBHySzr2vJdgJpZtisK6jKi3wBxWvxmSxJ6+Ze\neyKJYBPO7TbFFBfTJeWGTt1IFSKWndDZuuel+3D6GG3EONJ+WBKEEwgVHJ3HzZp+\nqwYQcH+g/GL+qDam4FUz822xbi29tjhTiBMJO5doOQKBgQD6Dc9Fe/sS9SqEfYQA\nFHhz3XdCdAEHU7TjmV3LImLSGZZcZt6tNPoYRRpNdtxl107I5f0gV++3E2GTW8E0\nV9MNLHwjnlGuQfzPdLxULMNOlmpQ+DhOlZC1l5EAebfXdBDWXr3A4hNiB2Bz3rc1\nRP+IJd93EySt448W+h2SanGSGwKBgQDdq/+pRYvlUvDtXdczh6qKLx/gmluwJMcj\nqjLSxyecHOr9aiv1dRB4E6Y0z5Qf7OvMEiY+vf2XoTWS3PNNn+Q4fp697vlmNGGi\n/ZHb2SJ8sNOxSrp5xh38Y568mAqyI7Q3Mr+XeN/C8iylqEj5ZJhyImX0lzux/XKO\nH3qWxfUFowKBgQDODs89XTu7lZjh8WTzg+r24AvFET8/wHUSEXI/USjKJhfIMWVS\nqpNlqJxSNZ7Nta3Q0+XR32VFIo2IF1aRQcZD1uK9n1uEFBC3DGWdn/2aJ02ZR9Nu\nvsWvPyVYlPUwcQ7m+M+5wRNj9tw+38tt9Fv23+7Ue0wAl8N0lcwEuf64/QKBgD61\npcHRNt5NNHMyFOsy+f/VjQMRJ9cQ0HU6dN5EEOSNGb1PB9iMoXgWtvJBtvnBIIO+\nrqsZPGBk7q75aqsPDJUe3PGGZW+Qaf6eFWFIcAUuUPTa2x4P+fOoiwN3T69NgnIL\nHUBQpZyUviSvEtXaq3W+XXFwRyb3OC0Uoq18mvBZAoGBANUqiWSzFIPqWOO/8UX5\nMTASvTQkyPv5/B0VX02vvGjLT7+zQAcmy5RgLXVcFNrqhtEfGB7KJ2wXwPoYI9AJ\nFpsazq65j56HflgV+SKnounnuZiUFQTkXn+chcS3BnMcbY74w41N+PCnfS0xNiNu\nrpV3YvC9OFNDqPwYJbTUknQm\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-sheets-bot@splendid-alpha-479916-i8.iam.gserviceaccount.com",
+  "client_id": "108166898604004837484",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-sheets-bot%40splendid-alpha-479916-i8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
