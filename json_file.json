@@ -1,0 +1,14 @@
+{
+  "studs": [
+    {
+        "name" : "Little Johnny",
+        "e-mail" : "lj@gmail.com",
+        "dorm" : true
+    },
+    {
+      "name" : "Little Suzy",
+        "e-mail" : null,
+        "dorm" : false
+    }
+  ]
+}

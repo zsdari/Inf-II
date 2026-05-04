@@ -1,0 +1,18 @@
+{
+  "studs": [
+    {
+      "name": "Little Johnny",
+      "e-mail": "lj@gmail.com",
+      "dorm": true,
+      "class": "12.C",
+      "phone": "06 30 123 4567"
+    },
+    {
+      "name": "Little Suzy",
+      "e-mail": null,
+      "dorm": false,
+      "class": "12.C",
+      "phone": "06 30 123 4567"
+    }
+  ]
+}
